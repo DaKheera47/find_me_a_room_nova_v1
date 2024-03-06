@@ -1,0 +1,50 @@
+[
+    {
+        "topIdx": "2",
+        "slotInDay": "10",
+        "time": "11:00 - 13:00",
+        "module": "EL2311 - Software Development 2 (Full Yr at Preston)",
+        "lecturer": "Berry, Carl",
+        "group": "Practical",
+        "roomName": "CM006",
+        "day": "Wednesday",
+        "startDateString": "2024-03-06T11:00:00",
+        "endDateString": "2024-03-06T13:00:00"
+    },
+    {
+        "topIdx": "3",
+        "slotInDay": "10",
+        "time": "11:00 - 13:00",
+        "module": "EI4900 - Computational Modelling (Full Yr at Preston)",
+        "lecturer": "Vengadasalam, Kirijen",
+        "group": "Lecture",
+        "roomName": "CM006",
+        "day": "Thursday",
+        "startDateString": "2024-03-07T11:00:00",
+        "endDateString": "2024-03-07T13:00:00"
+    },
+    {
+        "topIdx": "3",
+        "slotInDay": "11",
+        "time": "13:00 - 15:00",
+        "module": "JS3079 - Decoding Japan through Cultural Readings and Translation (Full Yr at Preston)",
+        "lecturer": "Kasza, Robert",
+        "group": "Lecture/Seminar",
+        "roomName": "CM006",
+        "day": "Thursday",
+        "startDateString": "2024-03-07T13:00:00",
+        "endDateString": "2024-03-07T15:00:00"
+    },
+    {
+        "topIdx": "3",
+        "slotInDay": "12",
+        "time": "15:00 - 17:00",
+        "module": "CO1409 - Programming (Full Yr at Preston)",
+        "lecturer": "Fasching, Chiara",
+        "group": "Practical",
+        "roomName": "CM006",
+        "day": "Thursday",
+        "startDateString": "2024-03-07T15:00:00",
+        "endDateString": "2024-03-07T17:00:00"
+    }
+]
